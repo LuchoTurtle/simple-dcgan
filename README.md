@@ -12,5 +12,5 @@ The output of this model should produce rather realistic images like the ones th
 ![output example](images/SVHN_examples.png)
 
 ## License
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](http://unlicense.org/)
 
